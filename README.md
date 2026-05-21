@@ -4,6 +4,8 @@ A practice repository for learning the basic Git and GitHub workflow. 🎓
 
 This is my commit.
 
+2. Edited example
+
 This repository is intended for **complete beginners** who want to practice the four most essential Git operations:
 
 1. **Clone** – download a repository to your computer
